@@ -7,7 +7,7 @@ Kendi yazdığım ilk kütüphane "Libft"
 
 ## İnstall
 ```bash
-git clone <https://github.com/Ahmethsnl/42_Libft.git> Libft
+git clone https://github.com/Ahmethsnl/42_Libft.git Libft
 ```
 ## Makefile
 ```bash
