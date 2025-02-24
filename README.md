@@ -3,6 +3,7 @@
 
 Kendi yazdığım ilk kütüphane "Libft"
 İçinde işimize yarıyacak fonskiyonlar var en basitinden genelde python için kullanılan "split" ve "join" fonksiyonları dahil olmak üzere 43 farklı fonksiyon.
+Dosyalar arasında işinize yarayabilicek not dosyamda bulunmakta.
 
 
 ## İnstall
