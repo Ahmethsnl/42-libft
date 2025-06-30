@@ -1,3 +1,4 @@
+[![Last Commit](https://img.shields.io/github/last-commit/ahmethsnl/42-Libft?style=flat)](https://github.com/ahmethsnl/42-Libft/commits)
 
 # Libft
 
