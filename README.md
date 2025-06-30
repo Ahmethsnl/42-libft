@@ -1,6 +1,6 @@
-[![Last Commit](https://img.shields.io/github/last-commit/ahmethsnl/42-Libft?style=flat)](https://github.com/ahmethsnl/42-Libft/commits)
-
 # Libft
+
+[![Last Commit](https://img.shields.io/github/last-commit/ahmethsnl/42-Libft?style=flat)](https://github.com/ahmethsnl/42-Libft/commits)
 
 Kendi yazdığım ilk kütüphane "Libft"
 İçinde işimize yarıyacak fonskiyonlar var en basitinden genelde python için kullanılan "split" ve "join" fonksiyonları dahil olmak üzere 43 farklı fonksiyon.
